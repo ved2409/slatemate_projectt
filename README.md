@@ -1,8 +1,6 @@
 # slatemate_projectt
 # SlateMate: AI-Powered Interest-Based Web Personalization & Detox System
 
-This is a prototype AI system that customizes a student's online content feed based on their interest (like "chess") while blocking harmful or irrelevant content. It forms the foundation of the **SlateMate FocusSphere** engine.
-
 ---
 
 ## Features
